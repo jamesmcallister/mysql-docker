@@ -1,4 +1,4 @@
-## I've added line 11 and 12 to trhe docker file in 5.7 for muliple volumes.
+## I've added line 11 and 12 to the docker file for multiple volumes.
 
 
 # What is MySQL?
